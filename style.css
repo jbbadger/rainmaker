@@ -1,9 +1,35 @@
 #rmheader {
-  border: 5px solid orangered;
+  border: 2px solid orangered;
   text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 30px;
+  background-color: aliceblue;
+  color: darkblue;
+  font-size: 26pt;
+  padding: 0px 0px 0px 0px;
+}
+
+#rmnav {
+  text-align: center;
+  border: 2px dotted grey;
+  border-radius: 50%;
+  padding: 5px 5px 5px 5px;
+  margin: 1% 20% 2% 20%;
 }
 
 .rmcnav {
-  border: 5px double grey;
   text-align: center;
+  padding: 0px 10px 0px 10px;
+}
+
+#rmsection1 {
+  margin: 0% 40% 2% 20%;
+  border: 4px pink double;
+  padding: 0px 5px 0px 5px;
+}
+
+#rmaside {
+  float: right;
+  margin: 1% 20% 2% 60%;
 }
